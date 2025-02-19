@@ -46,4 +46,3 @@ def main():
             correctLabel = "neg" if rawResult == "pos" else "pos"
             IATrainingModel.retrainModel(userInput, correctLabel)
             print(f"🔄 Ajustado automaticamente para: {correctLabel.upper()}")
-            
