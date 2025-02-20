@@ -42,7 +42,7 @@ avaliar feedbacks de clientes e até automatizar respostas com base no sentiment
 
 ## Aprendizado com feedback do usuário
 
-Caso você discorde ela será "re-treinada" para entender que essa frase que você enviou é o
+Caso você discorde ela será treinada novamente para entender que essa frase que você enviou é o
 contrário do que ela imaginava. Ou seja, caso envie uma frase que deveria ser "POSITIVA" e
 ela retorne que é "NEGATIVA". Ao informar para ela que ela estava errada, ela aprenderá e
 entenderá que essa frase deveria ser "POSITIVA", sendo assim, com esse novo aprendizado,
