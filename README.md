@@ -13,7 +13,7 @@ avaliar feedbacks de clientes e até automatizar respostas com base no sentiment
 * Comando utilizado para instalação das bibliotecas: pip install scikit-learn NLTK Joblib deep_translator
 * Obs: Caso você tente rodar o programa sem ter as bibliotecas necessárias, existe um SCRIPT que perguntará se você não deseja baixar automaticamente. Caso digite "s". Ele realizará o download automaticamente.
   
-## Instruções para instalação (Necessário ter pelo menos VSCODE e Python para prosseguir para esse passo)
+## Instruções (Necessário ter pelo menos VSCODE e Python para prosseguir para esse passo)
 * Clonar o repositório localmente: git clone https://github.com/devmarangoni/IA-Feeling-Analysis.git
 * Inicializar o programa: python IAExecuteFeelingAnalysis.py
 * Caso você já tenha baixado as bibliotecas necessárias, aparecerá um feedback exatamente como esse:
