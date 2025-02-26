@@ -11,14 +11,15 @@ avaliar feedbacks de clientes e até automatizar respostas com base no sentiment
 * Python: https://www.python.org/downloads/
 * Bibliotecas necessárias (Python): sklearn, nltk, joblib e deep_translator
 * Comando utilizado para instalação das bibliotecas: pip install scikit-learn NLTK Joblib deep_translator
-* Obs: Caso você tente rodar o programa sem ter as bibliotecas necessárias, existe um SCRIPT que perguntará se você não deseja baixar automaticamente. Caso digite "s". Ele realizará o download automaticamente.
   
-## Instruções (Necessário ter pelo menos VSCODE e Python para prosseguir para esse passo)
+## Instruções (Necessário ter instalado todas as dependencias)
 * Clonar o repositório localmente: git clone https://github.com/devmarangoni/IA-Feeling-Analysis.git
 * Inicializar o programa: python IAExecuteFeelingAnalysis.py
 * Caso você já tenha baixado as bibliotecas necessárias, aparecerá um feedback exatamente como esse:
 
 ![image](https://github.com/user-attachments/assets/e3813558-bc97-4aa2-b0e7-06c80adfd6f2)
+
+* Caso não tenha, ocorrerá uma exception no programa
 
 * Como eu subi a IA treinada no projeto, você também receberá o feedback de que a IA já está treinada.
 
